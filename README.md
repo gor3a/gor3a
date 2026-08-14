@@ -49,5 +49,5 @@ TypeScript · React / Next.js · Node.js / NestJS · React Native &amp; Expo · 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gor3a&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="gor3a github stats" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=gor3a&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="gor3a github stats" height="165"/>
 </p>
