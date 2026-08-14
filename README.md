@@ -2,6 +2,10 @@
 <h3 align="center">Senior Software Engineer — full-stack, web &amp; mobile</h3>
 
 <p align="center">
+<img src="assets/terminal.gif" alt="terminal banner" width="600"/>
+</p>
+
+<p align="center">
 TypeScript · React / Next.js · Node.js / NestJS · React Native &amp; Expo · PostgreSQL / MongoDB
 </p>
 
@@ -49,5 +53,5 @@ TypeScript · React / Next.js · Node.js / NestJS · React Native &amp; Expo · 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=gor3a&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="gor3a github stats" height="165"/>
+<img src="metrics.svg" alt="gor3a github metrics" width="100%"/>
 </p>
