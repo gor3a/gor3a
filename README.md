@@ -53,5 +53,9 @@ TypeScript · React / Next.js · Node.js / NestJS · React Native &amp; Expo · 
 ---
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/gor3a/gor3a/output/skyline.svg" alt="gor3a contribution skyline" width="100%"/>
+</p>
+
+<p align="center">
 <img src="metrics.svg" alt="gor3a github metrics" width="100%"/>
 </p>
